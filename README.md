@@ -39,8 +39,8 @@ Nyní k zodpovězení otázek.
 -	U této otázky jsem vytvořila podmínky zvlášť pro ovlivnění mezd v současném roce a v dalším roce a také pro ovlivnění cen potravin v současném roce a v dalším roce. 
 -	Pro vyšší růst HDP jsem určila hodnotu více jak tři, pokud HDP tedy vzrostlo meziročně o víc jak tři procenta, v tabulce Increace_HDP je číslo 1. Pokud tento růst ovlivnil výši mezd a potravin, musí být v jednotlivých tabulkách také číslo jedna. Tabulky jsou rozděleny na současnost, která je vytvořena rozdílem oproti předchozímu roku a budoucnost, která je určena rozdílem oproti současnosti.
 
-Pokud budete mít jakékoliv dotazy, kontaktujte mě na e-mail: vojtechovska.z@gmail.com, nebo telefonicky: 721 643 601.
+Pokud budete mít jakékoliv dotazy, kontaktujte mě na e-mail: vojtechovska.z@gmail.com.
 
 Mějte se fajn! Jdu na druhý úkol.
 Žaneta Svobodová
-![image](https://github.com/ZanetaSvob/ENGETO_FINAL_SVOBODOVA_SQL/assets/146125668/54be4287-3f81-4656-8e6f-c4d09731e7ce)
+
