@@ -1,5 +1,8 @@
 # ENGETO_FINAL_SVOBODOVA_SQL
 ENGETO SQL. FINAL PROJECT
+kontakt: e-mail: vojtechovska.z@gmail.com
+discort: zaneta_s 
+
 Zdravím,
 
 Předkládám vám průvodní list k datům, která jste chtěli zpracovat. 
